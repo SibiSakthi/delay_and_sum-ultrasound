@@ -1,6 +1,7 @@
 # delay_and_sum-ultrasound
 
 def generate_microphone_samples(Nmics, Nsamp, C, obstacle_locations):
+
     """
     Generate microphone samples based on specified parameters.
     
@@ -14,6 +15,7 @@ def generate_microphone_samples(Nmics, Nsamp, C, obstacle_locations):
     - mic_samples: Array of microphone samples
     """
  def das():
+ 
     """
     Perform Delay-and-Sum beamforming to generate an image representation.
     
